@@ -1,0 +1,13 @@
+[
+    {
+        "max_depth" : 5,
+        "min_points" : 100,
+        "lambd" : 5,
+        "sparse_k" : 4,
+        "learn_rate" : 1,
+        "sample_rate" : 0.8,
+        "max_iter" : 100,
+        "early_stop_n" : 1,
+        "classify_shrd" : 0.66
+    }
+]
